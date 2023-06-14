@@ -4,7 +4,7 @@ public class ComputerServiceCost {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Get user input for computer amount and service time
+
         System.out.print("Enter the number of computers: ");
         int computerAmount = scanner.nextInt();
         System.out.print("Is the service time in business hours? (Y/N): ");
